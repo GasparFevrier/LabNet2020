@@ -1,0 +1,39 @@
+C:\Users\gaspar.fevrier\Desktop\Lab Net\REPOSITORIO\Transporte\Transporte\bin\Debug\netcoreapp3.1\Transporte.exe
+C:\Users\gaspar.fevrier\Desktop\Lab Net\REPOSITORIO\Transporte\Transporte\bin\Debug\netcoreapp3.1\Transporte.deps.json
+C:\Users\gaspar.fevrier\Desktop\Lab Net\REPOSITORIO\Transporte\Transporte\bin\Debug\netcoreapp3.1\Transporte.runtimeconfig.json
+C:\Users\gaspar.fevrier\Desktop\Lab Net\REPOSITORIO\Transporte\Transporte\bin\Debug\netcoreapp3.1\Transporte.runtimeconfig.dev.json
+C:\Users\gaspar.fevrier\Desktop\Lab Net\REPOSITORIO\Transporte\Transporte\bin\Debug\netcoreapp3.1\Transporte.dll
+C:\Users\gaspar.fevrier\Desktop\Lab Net\REPOSITORIO\Transporte\Transporte\bin\Debug\netcoreapp3.1\Transporte.pdb
+C:\Users\gaspar.fevrier\Desktop\Lab Net\REPOSITORIO\Transporte\Transporte\obj\Debug\netcoreapp3.1\Transporte.csprojAssemblyReference.cache
+C:\Users\gaspar.fevrier\Desktop\Lab Net\REPOSITORIO\Transporte\Transporte\obj\Debug\netcoreapp3.1\Transporte.AssemblyInfoInputs.cache
+C:\Users\gaspar.fevrier\Desktop\Lab Net\REPOSITORIO\Transporte\Transporte\obj\Debug\netcoreapp3.1\Transporte.AssemblyInfo.cs
+C:\Users\gaspar.fevrier\Desktop\Lab Net\REPOSITORIO\Transporte\Transporte\obj\Debug\netcoreapp3.1\Transporte.csproj.CoreCompileInputs.cache
+C:\Users\gaspar.fevrier\Desktop\Lab Net\REPOSITORIO\Transporte\Transporte\obj\Debug\netcoreapp3.1\Transporte.dll
+C:\Users\gaspar.fevrier\Desktop\Lab Net\REPOSITORIO\Transporte\Transporte\obj\Debug\netcoreapp3.1\Transporte.pdb
+C:\Users\gaspar.fevrier\Desktop\Lab Net\REPOSITORIO\Transporte\Transporte\obj\Debug\netcoreapp3.1\Transporte.genruntimeconfig.cache
+C:\Users\gaspar.fevrier\Desktop\Lab Net\Practicas-GF - FINALES\U2-5-Transporte\Transporte\bin\Debug\netcoreapp3.1\Transporte.exe
+C:\Users\gaspar.fevrier\Desktop\Lab Net\Practicas-GF - FINALES\U2-5-Transporte\Transporte\bin\Debug\netcoreapp3.1\Transporte.deps.json
+C:\Users\gaspar.fevrier\Desktop\Lab Net\Practicas-GF - FINALES\U2-5-Transporte\Transporte\bin\Debug\netcoreapp3.1\Transporte.runtimeconfig.json
+C:\Users\gaspar.fevrier\Desktop\Lab Net\Practicas-GF - FINALES\U2-5-Transporte\Transporte\bin\Debug\netcoreapp3.1\Transporte.runtimeconfig.dev.json
+C:\Users\gaspar.fevrier\Desktop\Lab Net\Practicas-GF - FINALES\U2-5-Transporte\Transporte\bin\Debug\netcoreapp3.1\Transporte.dll
+C:\Users\gaspar.fevrier\Desktop\Lab Net\Practicas-GF - FINALES\U2-5-Transporte\Transporte\bin\Debug\netcoreapp3.1\Transporte.pdb
+C:\Users\gaspar.fevrier\Desktop\Lab Net\Practicas-GF - FINALES\U2-5-Transporte\Transporte\obj\Debug\netcoreapp3.1\Transporte.csprojAssemblyReference.cache
+C:\Users\gaspar.fevrier\Desktop\Lab Net\Practicas-GF - FINALES\U2-5-Transporte\Transporte\obj\Debug\netcoreapp3.1\Transporte.AssemblyInfoInputs.cache
+C:\Users\gaspar.fevrier\Desktop\Lab Net\Practicas-GF - FINALES\U2-5-Transporte\Transporte\obj\Debug\netcoreapp3.1\Transporte.AssemblyInfo.cs
+C:\Users\gaspar.fevrier\Desktop\Lab Net\Practicas-GF - FINALES\U2-5-Transporte\Transporte\obj\Debug\netcoreapp3.1\Transporte.csproj.CoreCompileInputs.cache
+C:\Users\gaspar.fevrier\Desktop\Lab Net\Practicas-GF - FINALES\U2-5-Transporte\Transporte\obj\Debug\netcoreapp3.1\Transporte.dll
+C:\Users\gaspar.fevrier\Desktop\Lab Net\Practicas-GF - FINALES\U2-5-Transporte\Transporte\obj\Debug\netcoreapp3.1\Transporte.pdb
+C:\Users\gaspar.fevrier\Desktop\Lab Net\Practicas-GF - FINALES\U2-5-Transporte\Transporte\obj\Debug\netcoreapp3.1\Transporte.genruntimeconfig.cache
+C:\Gaspar Neoris\Lab Net\Practicas-GF - FINALES\U2-5-Transporte\Transporte\bin\Debug\netcoreapp3.1\Transporte.exe
+C:\Gaspar Neoris\Lab Net\Practicas-GF - FINALES\U2-5-Transporte\Transporte\bin\Debug\netcoreapp3.1\Transporte.deps.json
+C:\Gaspar Neoris\Lab Net\Practicas-GF - FINALES\U2-5-Transporte\Transporte\bin\Debug\netcoreapp3.1\Transporte.runtimeconfig.json
+C:\Gaspar Neoris\Lab Net\Practicas-GF - FINALES\U2-5-Transporte\Transporte\bin\Debug\netcoreapp3.1\Transporte.runtimeconfig.dev.json
+C:\Gaspar Neoris\Lab Net\Practicas-GF - FINALES\U2-5-Transporte\Transporte\bin\Debug\netcoreapp3.1\Transporte.dll
+C:\Gaspar Neoris\Lab Net\Practicas-GF - FINALES\U2-5-Transporte\Transporte\bin\Debug\netcoreapp3.1\Transporte.pdb
+C:\Gaspar Neoris\Lab Net\Practicas-GF - FINALES\U2-5-Transporte\Transporte\obj\Debug\netcoreapp3.1\Transporte.csprojAssemblyReference.cache
+C:\Gaspar Neoris\Lab Net\Practicas-GF - FINALES\U2-5-Transporte\Transporte\obj\Debug\netcoreapp3.1\Transporte.AssemblyInfoInputs.cache
+C:\Gaspar Neoris\Lab Net\Practicas-GF - FINALES\U2-5-Transporte\Transporte\obj\Debug\netcoreapp3.1\Transporte.AssemblyInfo.cs
+C:\Gaspar Neoris\Lab Net\Practicas-GF - FINALES\U2-5-Transporte\Transporte\obj\Debug\netcoreapp3.1\Transporte.csproj.CoreCompileInputs.cache
+C:\Gaspar Neoris\Lab Net\Practicas-GF - FINALES\U2-5-Transporte\Transporte\obj\Debug\netcoreapp3.1\Transporte.dll
+C:\Gaspar Neoris\Lab Net\Practicas-GF - FINALES\U2-5-Transporte\Transporte\obj\Debug\netcoreapp3.1\Transporte.pdb
+C:\Gaspar Neoris\Lab Net\Practicas-GF - FINALES\U2-5-Transporte\Transporte\obj\Debug\netcoreapp3.1\Transporte.genruntimeconfig.cache
