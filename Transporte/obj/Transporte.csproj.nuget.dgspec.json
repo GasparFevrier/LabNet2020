@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Gaspar Neoris\\Lab Net\\Practicas-GF - FINALES\\U2-5-Transporte\\Transporte\\Transporte.csproj": {}
+    "C:\\Gaspar Neoris\\Lab Net\\LAB NET - OCTUBRE 2020\\Transporte\\Transporte\\Transporte.csproj": {}
   },
   "projects": {
-    "C:\\Gaspar Neoris\\Lab Net\\Practicas-GF - FINALES\\U2-5-Transporte\\Transporte\\Transporte.csproj": {
+    "C:\\Gaspar Neoris\\Lab Net\\LAB NET - OCTUBRE 2020\\Transporte\\Transporte\\Transporte.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Gaspar Neoris\\Lab Net\\Practicas-GF - FINALES\\U2-5-Transporte\\Transporte\\Transporte.csproj",
+        "projectUniqueName": "C:\\Gaspar Neoris\\Lab Net\\LAB NET - OCTUBRE 2020\\Transporte\\Transporte\\Transporte.csproj",
         "projectName": "Transporte",
-        "projectPath": "C:\\Gaspar Neoris\\Lab Net\\Practicas-GF - FINALES\\U2-5-Transporte\\Transporte\\Transporte.csproj",
+        "projectPath": "C:\\Gaspar Neoris\\Lab Net\\LAB NET - OCTUBRE 2020\\Transporte\\Transporte\\Transporte.csproj",
         "packagesPath": "C:\\Users\\gaspar.fevrier\\.nuget\\packages\\",
-        "outputPath": "C:\\Gaspar Neoris\\Lab Net\\Practicas-GF - FINALES\\U2-5-Transporte\\Transporte\\obj\\",
+        "outputPath": "C:\\Gaspar Neoris\\Lab Net\\LAB NET - OCTUBRE 2020\\Transporte\\Transporte\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

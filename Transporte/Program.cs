@@ -13,17 +13,17 @@ namespace Transporte
             List<Vehiculo> Lista_Vehiculos = new List<Vehiculo>();
             //List<DateTime> fechas          = new List<DateTime>();                       
 
-            Lista_Vehiculos.Add(new Auto(3));
-            Lista_Vehiculos.Add(new Auto(1));
-            Lista_Vehiculos.Add(new Auto(6));
-            Lista_Vehiculos.Add(new Auto(5));
+            Lista_Vehiculos.Add(new Auto(4));
             Lista_Vehiculos.Add(new Auto(2));
+            //Lista_Vehiculos.Add(new Auto(6));
+            //Lista_Vehiculos.Add(new Auto(5));
+            
 
-            Lista_Vehiculos.Add(new Avion(23));
-            Lista_Vehiculos.Add(new Avion(93));
-            Lista_Vehiculos.Add(new Avion(193));
-            Lista_Vehiculos.Add(new Avion(60));
-            Lista_Vehiculos.Add(new Avion(300));
+            Lista_Vehiculos.Add(new Avion(100));
+            Lista_Vehiculos.Add(new Avion(30));
+            Lista_Vehiculos.Add(new Avion(10));
+            //Lista_Vehiculos.Add(new Avion(60));
+            //Lista_Vehiculos.Add(new Avion(300));
 
             /*fechas.Add(new DateTime(2020, 5, 5));
             fechas.Add(new DateTime());
