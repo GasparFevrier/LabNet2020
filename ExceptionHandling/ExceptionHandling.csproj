@@ -67,41 +67,41 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="001_SimpleException.aspx" />
-    <Content Include="002_DoubleCatch.aspx" />
-    <Content Include="003_ExLogic.aspx" />
-    <Content Include="004_MyExeption.aspx" />
+    <Content Include="001.aspx" />
+    <Content Include="002.aspx" />
+    <Content Include="003.aspx" />
+    <Content Include="004.aspx" />
     <Content Include="Global.asax" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="001_SimpleException.aspx.cs">
-      <DependentUpon>001_SimpleException.aspx</DependentUpon>
+    <Compile Include="001.aspx.cs">
+      <DependentUpon>001.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="001_SimpleException.aspx.designer.cs">
-      <DependentUpon>001_SimpleException.aspx</DependentUpon>
+    <Compile Include="001.aspx.designer.cs">
+      <DependentUpon>001.aspx</DependentUpon>
     </Compile>
-    <Compile Include="002_DoubleCatch.aspx.cs">
-      <DependentUpon>002_DoubleCatch.aspx</DependentUpon>
+    <Compile Include="002.aspx.cs">
+      <DependentUpon>002.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="002_DoubleCatch.aspx.designer.cs">
-      <DependentUpon>002_DoubleCatch.aspx</DependentUpon>
+    <Compile Include="002.aspx.designer.cs">
+      <DependentUpon>002.aspx</DependentUpon>
     </Compile>
-    <Compile Include="003_ExLogic.aspx.cs">
-      <DependentUpon>003_ExLogic.aspx</DependentUpon>
+    <Compile Include="003.aspx.cs">
+      <DependentUpon>003.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="003_ExLogic.aspx.designer.cs">
-      <DependentUpon>003_ExLogic.aspx</DependentUpon>
+    <Compile Include="003.aspx.designer.cs">
+      <DependentUpon>003.aspx</DependentUpon>
     </Compile>
-    <Compile Include="004_MyExeption.aspx.cs">
-      <DependentUpon>004_MyExeption.aspx</DependentUpon>
+    <Compile Include="004.aspx.cs">
+      <DependentUpon>004.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="004_MyExeption.aspx.designer.cs">
-      <DependentUpon>004_MyExeption.aspx</DependentUpon>
+    <Compile Include="004.aspx.designer.cs">
+      <DependentUpon>004.aspx</DependentUpon>
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>

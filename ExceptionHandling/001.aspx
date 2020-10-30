@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="001_SimpleException.aspx.cs" Inherits="ExceptionHandling._001_SimpleException" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="001.aspx.cs" Inherits="ExceptionHandling._001_SimpleException" %>
 
 <!DOCTYPE html>
 
