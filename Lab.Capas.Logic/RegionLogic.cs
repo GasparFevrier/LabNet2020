@@ -19,17 +19,20 @@ namespace Lab.Capas.Logic
 
         public List<Region> Regions()
         {
-            return context.Region.ToList();
-
-            //var regiones = from r in context.Region
-            //               select r;
-            //return regiones.ToList();
+            return context.Region.ToList();         
         }
 
         public Region Regions(int id)
         {
             return context.Region.FirstOrDefault(r => r.RegionID.Equals(id));          
         }
+
+        public void AgregarRegion(Region region)
+        {            
+            context.Region.Add(region);
+            context.SaveChanges();
+        }
+
 
         public List<Employees> Empleados()
         {
@@ -63,6 +66,7 @@ namespace Lab.Capas.Logic
               RegionDescription    = O.RegionDescription}).ToList();
 
         }
+
 
     }
 }

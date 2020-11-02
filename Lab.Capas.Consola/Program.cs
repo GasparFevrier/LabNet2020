@@ -28,6 +28,7 @@ namespace Lab.Capas.Consola
                 Console.WriteLine("5. Registros de la tabla Productos\n");
                 Console.WriteLine("6. Productos Por Id\n");
                 Console.WriteLine("7. Territorios por Region\n");
+                Console.WriteLine("8. Insertar Region\n");
                 Console.WriteLine("Opción:");
                 entrada = Convert.ToInt32(Console.ReadLine());                                           
 
@@ -107,17 +108,31 @@ namespace Lab.Capas.Consola
                     break;
 
                 case 8:
-                    Console.WriteLine("Saliendo !!!");                    
+                    var Rg = new Region();
+
+                    Console.WriteLine("Ingrese Id de Region:");
+                    int rgid = int.Parse(Console.ReadLine());
+                    Rg.RegionID = rgid;
+
+                    Console.WriteLine("Ingrese Desc. de Region:");
+                    string rgdesc = Console.ReadLine();
+                    Rg.RegionDescription = rgdesc;
+
+                    regionLogic.AgregarRegion(Rg);
                     break;
 
-                    default:
+                case 9:
+                Console.WriteLine("Saliendo !!!");                    
+                break;
+
+                default:
                 Console.WriteLine("Digite una opcion valida !!!");
                 break;
 
             }
             Console.ReadKey();           
 
-            } while (entrada != 8);
+            } while (entrada != 9);
         }
     }
 }
