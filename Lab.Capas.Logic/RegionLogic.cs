@@ -28,7 +28,11 @@ namespace Lab.Capas.Logic
         }
 
         public void AgregarRegion(Region region)
-        {            
+        {
+
+            int intIdt = context.Region.Max(u => u.RegionID);
+            region.RegionID = intIdt + 1;
+
             context.Region.Add(region);
             context.SaveChanges();
         }

@@ -108,12 +108,7 @@ namespace Lab.Capas.Consola
                     break;
 
                 case 8:
-                    var Rg = new Region();
-
-                    Console.WriteLine("Ingrese Id de Region:");
-                    int rgid = int.Parse(Console.ReadLine());
-                    Rg.RegionID = rgid;
-
+                    var Rg = new Region();                                       
                     Console.WriteLine("Ingrese Desc. de Region:");
                     string rgdesc = Console.ReadLine();
                     Rg.RegionDescription = rgdesc;
