@@ -1,0 +1,42 @@
+C:\Users\gaspar.fevrier\source\repos\Lab.Capas.Consola\Lab.Capas.Consola\bin\Debug\Lab.Capas.Consola.exe.config
+C:\Users\gaspar.fevrier\source\repos\Lab.Capas.Consola\Lab.Capas.Consola\bin\Debug\Lab.Capas.Consola.exe
+C:\Users\gaspar.fevrier\source\repos\Lab.Capas.Consola\Lab.Capas.Consola\bin\Debug\Lab.Capas.Consola.pdb
+C:\Users\gaspar.fevrier\source\repos\Lab.Capas.Consola\Lab.Capas.Consola\bin\Debug\EntityFramework.dll
+C:\Users\gaspar.fevrier\source\repos\Lab.Capas.Consola\Lab.Capas.Consola\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gaspar.fevrier\source\repos\Lab.Capas.Consola\Lab.Capas.Consola\bin\Debug\EntityFramework.xml
+C:\Users\gaspar.fevrier\source\repos\Lab.Capas.Consola\Lab.Capas.Consola\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gaspar.fevrier\source\repos\Lab.Capas.Consola\Lab.Capas.Consola\obj\Debug\Lab.Capas.Consola.csprojAssemblyReference.cache
+C:\Users\gaspar.fevrier\source\repos\Lab.Capas.Consola\Lab.Capas.Consola\obj\Debug\Lab.Capas.Consola.csproj.CoreCompileInputs.cache
+C:\Users\gaspar.fevrier\source\repos\Lab.Capas.Consola\Lab.Capas.Consola\obj\Debug\Lab.Capas.Consola.csproj.CopyComplete
+C:\Users\gaspar.fevrier\source\repos\Lab.Capas.Consola\Lab.Capas.Consola\obj\Debug\Lab.Capas.Consola.exe
+C:\Users\gaspar.fevrier\source\repos\Lab.Capas.Consola\Lab.Capas.Consola\obj\Debug\Lab.Capas.Consola.pdb
+C:\Users\gaspar.fevrier\source\repos\Lab.Capas.Consola\Lab.Capas.Consola\bin\Debug\Lab.Capas.Entities.dll
+C:\Users\gaspar.fevrier\source\repos\Lab.Capas.Consola\Lab.Capas.Consola\bin\Debug\Lab.Capas.Logic.dll
+C:\Users\gaspar.fevrier\source\repos\Lab.Capas.Consola\Lab.Capas.Consola\bin\Debug\Lab.Capas.RerourceAccess.dll
+C:\Users\gaspar.fevrier\source\repos\Lab.Capas.Consola\Lab.Capas.Consola\bin\Debug\Lab.Capas.Entities.pdb
+C:\Users\gaspar.fevrier\source\repos\Lab.Capas.Consola\Lab.Capas.Consola\bin\Debug\Lab.Capas.Entities.dll.config
+C:\Users\gaspar.fevrier\source\repos\Lab.Capas.Consola\Lab.Capas.Consola\bin\Debug\Lab.Capas.Logic.pdb
+C:\Users\gaspar.fevrier\source\repos\Lab.Capas.Consola\Lab.Capas.Consola\bin\Debug\Lab.Capas.Logic.dll.config
+C:\Users\gaspar.fevrier\source\repos\Lab.Capas.Consola\Lab.Capas.Consola\bin\Debug\Lab.Capas.RerourceAccess.pdb
+C:\Users\gaspar.fevrier\source\repos\Lab.Capas.Consola\Lab.Capas.Consola\bin\Debug\Lab.Capas.RerourceAccess.dll.config
+C:\Gaspar Neoris\Lab Net\LAB NET - OCTUBRE 2020\Entregas Tareas\Lab.Capas.Consola\Lab.Capas.Consola\bin\Debug\Lab.Capas.Consola.exe.config
+C:\Gaspar Neoris\Lab Net\LAB NET - OCTUBRE 2020\Entregas Tareas\Lab.Capas.Consola\Lab.Capas.Consola\bin\Debug\Lab.Capas.Consola.exe
+C:\Gaspar Neoris\Lab Net\LAB NET - OCTUBRE 2020\Entregas Tareas\Lab.Capas.Consola\Lab.Capas.Consola\bin\Debug\Lab.Capas.Consola.pdb
+C:\Gaspar Neoris\Lab Net\LAB NET - OCTUBRE 2020\Entregas Tareas\Lab.Capas.Consola\Lab.Capas.Consola\bin\Debug\EntityFramework.dll
+C:\Gaspar Neoris\Lab Net\LAB NET - OCTUBRE 2020\Entregas Tareas\Lab.Capas.Consola\Lab.Capas.Consola\bin\Debug\EntityFramework.SqlServer.dll
+C:\Gaspar Neoris\Lab Net\LAB NET - OCTUBRE 2020\Entregas Tareas\Lab.Capas.Consola\Lab.Capas.Consola\bin\Debug\Lab.Capas.Entities.dll
+C:\Gaspar Neoris\Lab Net\LAB NET - OCTUBRE 2020\Entregas Tareas\Lab.Capas.Consola\Lab.Capas.Consola\bin\Debug\Lab.Capas.Logic.dll
+C:\Gaspar Neoris\Lab Net\LAB NET - OCTUBRE 2020\Entregas Tareas\Lab.Capas.Consola\Lab.Capas.Consola\bin\Debug\Lab.Capas.RerourceAccess.dll
+C:\Gaspar Neoris\Lab Net\LAB NET - OCTUBRE 2020\Entregas Tareas\Lab.Capas.Consola\Lab.Capas.Consola\bin\Debug\Lab.Capas.Entities.pdb
+C:\Gaspar Neoris\Lab Net\LAB NET - OCTUBRE 2020\Entregas Tareas\Lab.Capas.Consola\Lab.Capas.Consola\bin\Debug\Lab.Capas.Entities.dll.config
+C:\Gaspar Neoris\Lab Net\LAB NET - OCTUBRE 2020\Entregas Tareas\Lab.Capas.Consola\Lab.Capas.Consola\bin\Debug\Lab.Capas.Logic.pdb
+C:\Gaspar Neoris\Lab Net\LAB NET - OCTUBRE 2020\Entregas Tareas\Lab.Capas.Consola\Lab.Capas.Consola\bin\Debug\Lab.Capas.Logic.dll.config
+C:\Gaspar Neoris\Lab Net\LAB NET - OCTUBRE 2020\Entregas Tareas\Lab.Capas.Consola\Lab.Capas.Consola\bin\Debug\EntityFramework.xml
+C:\Gaspar Neoris\Lab Net\LAB NET - OCTUBRE 2020\Entregas Tareas\Lab.Capas.Consola\Lab.Capas.Consola\bin\Debug\EntityFramework.SqlServer.xml
+C:\Gaspar Neoris\Lab Net\LAB NET - OCTUBRE 2020\Entregas Tareas\Lab.Capas.Consola\Lab.Capas.Consola\bin\Debug\Lab.Capas.RerourceAccess.pdb
+C:\Gaspar Neoris\Lab Net\LAB NET - OCTUBRE 2020\Entregas Tareas\Lab.Capas.Consola\Lab.Capas.Consola\bin\Debug\Lab.Capas.RerourceAccess.dll.config
+C:\Gaspar Neoris\Lab Net\LAB NET - OCTUBRE 2020\Entregas Tareas\Lab.Capas.Consola\Lab.Capas.Consola\obj\Debug\Lab.Capas.Consola.csprojAssemblyReference.cache
+C:\Gaspar Neoris\Lab Net\LAB NET - OCTUBRE 2020\Entregas Tareas\Lab.Capas.Consola\Lab.Capas.Consola\obj\Debug\Lab.Capas.Consola.csproj.CoreCompileInputs.cache
+C:\Gaspar Neoris\Lab Net\LAB NET - OCTUBRE 2020\Entregas Tareas\Lab.Capas.Consola\Lab.Capas.Consola\obj\Debug\Lab.Capas.Consola.csproj.CopyComplete
+C:\Gaspar Neoris\Lab Net\LAB NET - OCTUBRE 2020\Entregas Tareas\Lab.Capas.Consola\Lab.Capas.Consola\obj\Debug\Lab.Capas.Consola.exe
+C:\Gaspar Neoris\Lab Net\LAB NET - OCTUBRE 2020\Entregas Tareas\Lab.Capas.Consola\Lab.Capas.Consola\obj\Debug\Lab.Capas.Consola.pdb

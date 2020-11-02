@@ -1,0 +1,15 @@
+C:\Users\gaspar.fevrier\source\repos\Lab.Capas.Consola\Lab.Capas.RerourceAccess\obj\Debug\Lab.Capas.RerourceAccess.csprojAssemblyReference.cache
+C:\Users\gaspar.fevrier\source\repos\Lab.Capas.Consola\Lab.Capas.RerourceAccess\obj\Debug\Lab.Capas.RerourceAccess.csproj.CoreCompileInputs.cache
+C:\Users\gaspar.fevrier\source\repos\Lab.Capas.Consola\Lab.Capas.RerourceAccess\bin\Debug\Lab.Capas.RerourceAccess.dll.config
+C:\Users\gaspar.fevrier\source\repos\Lab.Capas.Consola\Lab.Capas.RerourceAccess\bin\Debug\Lab.Capas.RerourceAccess.dll
+C:\Users\gaspar.fevrier\source\repos\Lab.Capas.Consola\Lab.Capas.RerourceAccess\bin\Debug\Lab.Capas.RerourceAccess.pdb
+C:\Users\gaspar.fevrier\source\repos\Lab.Capas.Consola\Lab.Capas.RerourceAccess\bin\Debug\EntityFramework.dll
+C:\Users\gaspar.fevrier\source\repos\Lab.Capas.Consola\Lab.Capas.RerourceAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gaspar.fevrier\source\repos\Lab.Capas.Consola\Lab.Capas.RerourceAccess\bin\Debug\Lab.Capas.Entities.dll
+C:\Users\gaspar.fevrier\source\repos\Lab.Capas.Consola\Lab.Capas.RerourceAccess\bin\Debug\Lab.Capas.Entities.pdb
+C:\Users\gaspar.fevrier\source\repos\Lab.Capas.Consola\Lab.Capas.RerourceAccess\bin\Debug\Lab.Capas.Entities.dll.config
+C:\Users\gaspar.fevrier\source\repos\Lab.Capas.Consola\Lab.Capas.RerourceAccess\bin\Debug\EntityFramework.xml
+C:\Users\gaspar.fevrier\source\repos\Lab.Capas.Consola\Lab.Capas.RerourceAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gaspar.fevrier\source\repos\Lab.Capas.Consola\Lab.Capas.RerourceAccess\obj\Debug\Lab.Capas.RerourceAccess.csproj.CopyComplete
+C:\Users\gaspar.fevrier\source\repos\Lab.Capas.Consola\Lab.Capas.RerourceAccess\obj\Debug\Lab.Capas.RerourceAccess.dll
+C:\Users\gaspar.fevrier\source\repos\Lab.Capas.Consola\Lab.Capas.RerourceAccess\obj\Debug\Lab.Capas.RerourceAccess.pdb

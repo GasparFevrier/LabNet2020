@@ -1,0 +1,12 @@
+C:\Users\gaspar.fevrier\source\repos\Lab.Capas.Consola\Lab.Capas.Entities\bin\Debug\Lab.Capas.Entities.dll.config
+C:\Users\gaspar.fevrier\source\repos\Lab.Capas.Consola\Lab.Capas.Entities\bin\Debug\Lab.Capas.Entities.dll
+C:\Users\gaspar.fevrier\source\repos\Lab.Capas.Consola\Lab.Capas.Entities\bin\Debug\Lab.Capas.Entities.pdb
+C:\Users\gaspar.fevrier\source\repos\Lab.Capas.Consola\Lab.Capas.Entities\bin\Debug\EntityFramework.dll
+C:\Users\gaspar.fevrier\source\repos\Lab.Capas.Consola\Lab.Capas.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gaspar.fevrier\source\repos\Lab.Capas.Consola\Lab.Capas.Entities\bin\Debug\EntityFramework.xml
+C:\Users\gaspar.fevrier\source\repos\Lab.Capas.Consola\Lab.Capas.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gaspar.fevrier\source\repos\Lab.Capas.Consola\Lab.Capas.Entities\obj\Debug\Lab.Capas.Entities.csprojAssemblyReference.cache
+C:\Users\gaspar.fevrier\source\repos\Lab.Capas.Consola\Lab.Capas.Entities\obj\Debug\Lab.Capas.Entities.csproj.CoreCompileInputs.cache
+C:\Users\gaspar.fevrier\source\repos\Lab.Capas.Consola\Lab.Capas.Entities\obj\Debug\Lab.Capas.Entities.csproj.CopyComplete
+C:\Users\gaspar.fevrier\source\repos\Lab.Capas.Consola\Lab.Capas.Entities\obj\Debug\Lab.Capas.Entities.dll
+C:\Users\gaspar.fevrier\source\repos\Lab.Capas.Consola\Lab.Capas.Entities\obj\Debug\Lab.Capas.Entities.pdb
