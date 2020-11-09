@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<header>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="css/web.css" media="screen">  
+  <style>
+    #edad {width: 50px;}    
+  </style>
+</header>
+
+<body> 
+<div>
+  <form onsubmit="return validarForm();" style="width:30%;" id="miformulario">
+    <h1>FORMULARIO DE CONTACTO</h1>
+    <fieldset>
+      <legend><h3>Información personal</h3></legend>            
+     <div>
+       Nombre<br>
+      <input class="input" type="text" id="nombre" name="nombre"> 
+      <br> 
+      <br> 
+     </div>
+
+     <div>
+      Apellido<br>
+      <input class="input" type="text" id="apellido" name="apellido">
+      <br> 
+      <br>             
+     </div>   
+
+     <div>
+      Edad<br>
+      <input class="input" type="number" id="edad">            
+     </div>   
+
+     <div>
+      <br>
+      <fieldset>
+        <legend><h3>Sexo</h3></legend>      
+        <input type="radio" name="gender" value="masculino" checked> Masculino<br>
+        <input type="radio" name="gender" value="femenino"> Femenino<br>
+        <input type="radio" name="gender" value="otro"> Otro
+      </fieldset>
+     </div>
+     <br>
+    </fieldset>
+
+    <fieldset>
+      <legend><h3>Información adicional</h3></legend>      
+      <div>
+        Empresa<br>
+        <input  class="input" type="text" name="empresa">
+        <br><br>
+    </div>
+    </fieldset>
+    <br>
+    <div>      
+      <br>
+      <button class="submit" type="Enviar">Enviar Formulario</button>            
+      <button class="clear" type="reset">Limpiar</button>              
+    </div>   
+  </form>
+  
+</div>
+</div>
+<script type="text/javascript" src="js/web.js"></script>
+</body>
+
+</html>
