@@ -1,0 +1,48 @@
+﻿@model List<Lab.Capas.Entities.Products>
+
+@{
+    ViewBag.Title = "Listado de Productos";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<table class="table">
+    <tr>
+        <th>Total de Productos: @Model.Count</th>
+    </tr>
+</table>
+
+
+<div class="row" style="text-align:end; padding:5px;">
+    <div class="col-md-12">
+        <a href="~/Product/Insert" class="btn btn-primary" style="width:150px;">Nuevo Producto</a>
+    </div>
+</div>
+
+<table class="table">
+    <tr>
+        <th>#</th>
+        <th>Descripcion</th>
+        <th>Precio</th>
+        <th></th>
+    </tr>
+
+    @foreach (var products in Model)
+    {
+<tr>
+    <td>@products.ProductID</td>
+    <td>@products.ProductName</td>
+    <td>@products.UnitPrice</td>
+
+    <td style="text-align:end; padding:5px;">
+        <a class="btn btn-default" href="~/Product/Editar/@products.ProductID">Editar</a>
+        <a class="btn btn-danger" onclick="return  DeleteConfirm()" href="~/Product/DeleteProducto/@products.ProductID">Eliminar</a>
+
+    </td>
+</tr>
+
+
+
+    }
+
+</table>
