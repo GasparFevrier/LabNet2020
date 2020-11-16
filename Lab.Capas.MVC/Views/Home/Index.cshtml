@@ -1,0 +1,40 @@
+﻿@using Newtonsoft.Json;
+@using RestSharp;
+
+@{
+    ViewBag.Title = "Administracion Base de Datos Northwind";
+}
+
+@{
+    var client = new RestClient("https://www.dolarsi.com/api/api.php?type=valoresprincipales");
+    var request = new RestRequest(Method.GET);
+    IRestResponse response = client.Execute(request);
+    dynamic dolar = JsonConvert.DeserializeObject(response.Content);
+}
+
+<body class="container-fluid">
+
+    <div class="col-l-6 col-xl-6 col-sm-12" style="text-align:end; font-weight: bold; padding-top:10px;">
+        <div style="text-align:end;">
+            <h3 style="color:red;"> VALOR DOLAR</h3>
+            <h4> Api DolarSi</h4>
+            <th> @dolar[0].casa.nombre</th>
+            <th> @dolar[0].casa.compra</th>
+            <br />
+            <th> @dolar[1].casa.nombre</th>
+            <th> @dolar[1].casa.compra</th>
+        </div>
+    </div>
+
+    <div class="col-l-6 col-xl-6 col-sm-12">
+        <div style="text-align:center;">
+            <img src="~/img/NW.jpg" style="width:800px; height:600px;">
+        </div>
+    </div>
+
+</body>
+
+
+
+
+
