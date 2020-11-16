@@ -1,0 +1,63 @@
+﻿@model List<Lab.Capas.Entities.Region>
+
+@{
+    ViewBag.Title = "Listado de Regiones";
+}
+
+<h2>@ViewBag.Title</h2>
+
+
+<table class="table">
+    <tr>
+        <th>Total de Regiones: @Model.Count</th>
+    </tr>
+</table>
+
+<div class="text-right form-inline" style="text-align:end; padding:5px;">
+    <form method="get" action=@Url.Action("Index", "Region" )>
+        <div class="form-group">
+            @Html.TextBox("inpBuscar", null, new { placeholder = "texto de búsqueda", @class = "form-control" })
+        </div>
+        <button class="btn btn-default" type="submit">Buscar</button>
+    </form>
+</div>
+<br />
+
+<div class="row" style="text-align:end; padding:5px;">
+    <div class="col-md-12">
+        <a href="~/Region/Insert" class="btn btn-primary" style="width:150px;">Nueva Region</a>
+    </div>
+</div>
+
+<table class="table">
+    <tr>
+        <th>#</th>
+        <th>Descripcion</th>
+        <th> </th>
+    </tr>
+
+    @foreach (var region in Model)
+    {
+        <tr>
+            <td>@region.RegionID</td>
+            <td>@region.RegionDescription</td>
+
+            <td style="text-align:end; padding:5px;">
+                <a class="btn btn-default" href="~/Region/Editar/@region.RegionID">Editar</a>
+                <a class="btn btn-danger" onclick="return  DeleteConfirm()" href="~/Region/DeleteRegion/@region.RegionID">Eliminar</a>
+
+            </td>
+        </tr>
+    }
+</table>
+
+
+
+@*<script type="text/javascript">
+        function DeleteConfirm() {
+            if (confirm("Desea Eliminar el Registro"))
+                return true;
+            else
+                return false;
+        }
+    </script>*@
